@@ -15,6 +15,6 @@ def removeSpaces(string):
   return str(result)
 
 
-phrase1 = removeSpaces(phrase)
+phrase_out = removeSpaces(phrase)
 
-print(phrase1)
+print(phrase_out)
